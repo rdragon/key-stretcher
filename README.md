@@ -2,7 +2,7 @@
 Make a password more secure against a brute-force attack.
 
 ## Quick start
-- Install [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+- Install [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 - Start the program: `dotnet run`
 
 ## Command line arguments
